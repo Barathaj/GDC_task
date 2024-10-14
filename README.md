@@ -98,6 +98,10 @@ The model's predictions were saved in a CSV file that includes:
 - **id**: The loan applicant's ID.
 - **loan_status**: The predicted loan approval status (probability score).
 
+## Google Colab Link :
+
+**https://colab.research.google.com/drive/1EhEJNdYW1z1AZ8-72kV28_ATdiJlEiYi?usp=sharing**
+
 ## Conclusion
 
 This project successfully demonstrates the process of building a machine learning model to predict loan approval status. With a validation AUC score of **96.07%** and test set accuracy of **97%**, the model performs well in predicting loan approvals.
